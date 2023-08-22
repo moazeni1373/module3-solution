@@ -1,24 +1,15 @@
-/* Custom styles */
-.navbar-scroll {
-    background-color: transparent;
-    border: none;
-  }
-  
-  .navbar-brand {
-    padding: 15px 0;
-  }
-  
-  .navbar-toggle .icon-bar {
-    background-color: #333;
+/* Add your custom styles here */
+.navbar {
+    margin-bottom: 0; /* Remove default margin */
   }
   
   .page-heading {
-    margin-top: 50px;
+    text-align: center; /* Center the page heading */
   }
   
   .section {
-    background-color: #f5f5f5;
-    min-height: 1000px;
-    padding: 20px 0;
+    background-color: #f5f5f5; /* Set the background color for the section */
+    min-height: 1000px; /* Set the minimum height for scrolling */
+    padding: 20px 0; /* Add some padding to the section */
   }
   
